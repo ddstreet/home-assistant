@@ -17,7 +17,7 @@ REQUIREMENTS = ['pySwitchmate==0.4.1']
 
 _LOGGER = logging.getLogger(__name__)
 
-CONF_FLIP_ON_OFF = 'flip_on_off
+CONF_FLIP_ON_OFF = 'flip_on_off'
 DEFAULT_NAME = 'Switchmate'
 
 SCAN_INTERVAL = timedelta(minutes=30)
